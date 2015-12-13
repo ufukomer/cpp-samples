@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function_pointer", "function_pointer\function_pointer.vcxproj", "{AA360DDD-FACE-4436-9886-8027C4163FCE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_pointer", "array_pointer\array_pointer.vcxproj", "{69DBD5F8-F5B8-41DB-9A82-A4F2F0205FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{AA360DDD-FACE-4436-9886-8027C4163FCE}.Debug|Win32.Build.0 = Debug|Win32
 		{AA360DDD-FACE-4436-9886-8027C4163FCE}.Release|Win32.ActiveCfg = Release|Win32
 		{AA360DDD-FACE-4436-9886-8027C4163FCE}.Release|Win32.Build.0 = Release|Win32
+		{69DBD5F8-F5B8-41DB-9A82-A4F2F0205FDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69DBD5F8-F5B8-41DB-9A82-A4F2F0205FDF}.Debug|Win32.Build.0 = Debug|Win32
+		{69DBD5F8-F5B8-41DB-9A82-A4F2F0205FDF}.Release|Win32.ActiveCfg = Release|Win32
+		{69DBD5F8-F5B8-41DB-9A82-A4F2F0205FDF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
