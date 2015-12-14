@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_square", "struct_squ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enum_days", "enum_days\enum_days.vcxproj", "{82D22FC0-8191-4879-8026-2371217B1127}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "file_operations", "file_operations\file_operations.vcxproj", "{07A12A41-51C0-4DB4-87B7-574A0DDE4406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{82D22FC0-8191-4879-8026-2371217B1127}.Debug|Win32.Build.0 = Debug|Win32
 		{82D22FC0-8191-4879-8026-2371217B1127}.Release|Win32.ActiveCfg = Release|Win32
 		{82D22FC0-8191-4879-8026-2371217B1127}.Release|Win32.Build.0 = Release|Win32
+		{07A12A41-51C0-4DB4-87B7-574A0DDE4406}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07A12A41-51C0-4DB4-87B7-574A0DDE4406}.Debug|Win32.Build.0 = Debug|Win32
+		{07A12A41-51C0-4DB4-87B7-574A0DDE4406}.Release|Win32.ActiveCfg = Release|Win32
+		{07A12A41-51C0-4DB4-87B7-574A0DDE4406}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
