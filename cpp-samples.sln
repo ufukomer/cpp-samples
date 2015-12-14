@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_pointer", "array_poin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template_function", "template_function\template_function.vcxproj", "{A8219E46-6F93-4BE1-B068-604A14A16463}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_square", "struct_square\struct_square.vcxproj", "{B1F47E82-D421-4D90-9886-A040AB56814D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{A8219E46-6F93-4BE1-B068-604A14A16463}.Debug|Win32.Build.0 = Debug|Win32
 		{A8219E46-6F93-4BE1-B068-604A14A16463}.Release|Win32.ActiveCfg = Release|Win32
 		{A8219E46-6F93-4BE1-B068-604A14A16463}.Release|Win32.Build.0 = Release|Win32
+		{B1F47E82-D421-4D90-9886-A040AB56814D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1F47E82-D421-4D90-9886-A040AB56814D}.Debug|Win32.Build.0 = Debug|Win32
+		{B1F47E82-D421-4D90-9886-A040AB56814D}.Release|Win32.ActiveCfg = Release|Win32
+		{B1F47E82-D421-4D90-9886-A040AB56814D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,3 +8,6 @@ Fill the selected array via array pointer.
 
 ### [Template Function](https://github.com/ufukomer/cpp-samples/tree/master/template_function)
 Swap an array elements using a template function, and then swap another array elements with XOR (^) operation.
+
+### [Struct]()
+A struct that contains number an its square.
