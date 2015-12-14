@@ -11,3 +11,6 @@ Swap an array elements using a template function, and then swap another array el
 
 ### [Struct](https://github.com/ufukomer/cpp-samples/tree/master/struct_square)
 A struct that contains number an its square.
+
+### [Enum & Switch Case](https://github.com/ufukomer/cpp-samples/tree/master/enum_days)
+An enum that contain the seven-day week.
