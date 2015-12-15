@@ -31,3 +31,6 @@ Add 10 random line to a file. Inform about the lines that has character "b" at t
 | fgets() | Adds from the file then reads |
 | fwrite() | Writes array to the file |
 | fread() | Reads array from the file |
+
+### [Class, Friend Function, Operator Overloading](https://github.com/ufukomer/cpp-samples/tree/master/class_employee)
+An employee class that has id, salary and name variables.
