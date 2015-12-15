@@ -34,3 +34,6 @@ Add 10 random line to a file. Inform about the lines that has character "b" at t
 
 ### [Class, Friend Function, Operator Overloading](https://github.com/ufukomer/cpp-samples/tree/master/class_employee)
 An employee class that has id, salary and name variables.
+
+### [Constructor](https://github.com/ufukomer/cpp-samples/tree/master/class_constructor)
+Clone an instance of class using constructor.
