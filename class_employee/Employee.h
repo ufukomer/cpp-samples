@@ -5,7 +5,7 @@ using namespace std;
 
 class Employee {
 
-private: 
+private:
 	int id;
 	int salary;
 	char *name;
@@ -13,10 +13,10 @@ public:
 	Employee(int id, int salary, char *name) :id(id), salary(salary), name(name) {}
 
 	// A friend function has the right to access all private and protected members 
-    	// of the class.
+	// of the class.
 	friend int operator+(const Employee &other_a, const Employee &other_b);
 	int operator-(const Employee &other);
-    friend void operator++(Employee &other);
+	friend void operator++(Employee &other);
 
 	operator int() { return id; }
 

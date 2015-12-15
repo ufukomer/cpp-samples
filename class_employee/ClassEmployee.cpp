@@ -10,7 +10,7 @@ int main() {
 
 	int result = employee_a + employee_b;
 	cout << "Result: " << result << endl;
-	
+
 	result = employee_a - employee_b;
 	cout << "Result: " << result << endl;
 

@@ -26,8 +26,8 @@ int main() {
 		*p = rand() % 100;
 		p++;
 	}
-	
-	printf("The values that have been inserted into array %d:\n", 
+
+	printf("The values that have been inserted into array %d:\n",
 		choice + 1);
 
 	for (i = 0; i < choice + 1; ++i) {

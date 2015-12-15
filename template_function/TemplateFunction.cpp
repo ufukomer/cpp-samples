@@ -5,7 +5,7 @@ template<typename T> void swap(T &a, T &b);
 
 int main() {
 
-	int arr_a[3] = { 1, 2, 3 }, 
+	int arr_a[3] = { 1, 2, 3 },
 		arr_b[3] = { 4, 5, 6 };
 
 	int *p, *t;
