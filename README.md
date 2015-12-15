@@ -37,3 +37,6 @@ An employee class that has id, salary and name variables.
 
 ### [Constructor](https://github.com/ufukomer/cpp-samples/tree/master/class_constructor)
 Clone an instance of class using constructor.
+
+### [Class Instance](https://github.com/ufukomer/cpp-samples/tree/master/class_constructor)
+Clone class instance with non-constructor method.
