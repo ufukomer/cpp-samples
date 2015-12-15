@@ -34,7 +34,7 @@ int operator+(const Employee &other_a, const Employee &other_b) {
 }
 
 // It doesn't have to be friend function unless we decide not 
-// to use class name and double colons before function name
+// to use class name and double colons before function name.
 int Employee::operator-(const Employee &other) {
 	return salary - other.salary;
 }
