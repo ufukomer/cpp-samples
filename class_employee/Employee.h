@@ -13,7 +13,7 @@ public:
 	Employee(int id, int salary, char *name) :id(id), salary(salary), name(name) {}
 
 	// A friend function has the right to access all private and protected members 
-    // of the class.
+    	// of the class.
 	friend int operator+(const Employee &other_a, const Employee &other_b);
 	int operator-(const Employee &other);
     friend void operator++(Employee &other);
@@ -34,7 +34,7 @@ int operator+(const Employee &other_a, const Employee &other_b) {
 }
 
 // It doesn't have to be friend function unless we decide not 
-// to use class name and double colons before function name
+// to use class name and double colons before function name.
 int Employee::operator-(const Employee &other) {
 	return salary - other.salary;
 }
