@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_employee", "class_emp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_constructor", "class_constructor\class_constructor.vcxproj", "{6FEE325C-69D9-4A96-89BC-F5DB44F1CCCB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "instance_clone", "instance_clone\instance_clone.vcxproj", "{DD5C7629-0D66-45B3-95D3-4981B791F1AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{6FEE325C-69D9-4A96-89BC-F5DB44F1CCCB}.Debug|Win32.Build.0 = Debug|Win32
 		{6FEE325C-69D9-4A96-89BC-F5DB44F1CCCB}.Release|Win32.ActiveCfg = Release|Win32
 		{6FEE325C-69D9-4A96-89BC-F5DB44F1CCCB}.Release|Win32.Build.0 = Release|Win32
+		{DD5C7629-0D66-45B3-95D3-4981B791F1AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD5C7629-0D66-45B3-95D3-4981B791F1AC}.Debug|Win32.Build.0 = Debug|Win32
+		{DD5C7629-0D66-45B3-95D3-4981B791F1AC}.Release|Win32.ActiveCfg = Release|Win32
+		{DD5C7629-0D66-45B3-95D3-4981B791F1AC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
