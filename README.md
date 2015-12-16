@@ -43,3 +43,6 @@ Clone class instance with non-constructor method.
 
 ### [Array of Class Instances](https://github.com/ufukomer/cpp-samples/tree/master/class_array)
 A class that contains an array of instances of another class.
+
+### [Complex Number](https://github.com/ufukomer/cpp-samples/tree/master/complex_number)
+Overload plus (+) operator to accomplish summation between two complex number. 
