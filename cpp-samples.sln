@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_array", "class_array\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complex_number", "complex_number\complex_number.vcxproj", "{AA144B62-5141-46BA-A472-02C9C5C8E27E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overload_operator", "overload_operator\overload_operator.vcxproj", "{3C25C32F-D37D-4307-801B-17C286BA6612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -75,6 +77,10 @@ Global
 		{AA144B62-5141-46BA-A472-02C9C5C8E27E}.Debug|Win32.Build.0 = Debug|Win32
 		{AA144B62-5141-46BA-A472-02C9C5C8E27E}.Release|Win32.ActiveCfg = Release|Win32
 		{AA144B62-5141-46BA-A472-02C9C5C8E27E}.Release|Win32.Build.0 = Release|Win32
+		{3C25C32F-D37D-4307-801B-17C286BA6612}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C25C32F-D37D-4307-801B-17C286BA6612}.Debug|Win32.Build.0 = Debug|Win32
+		{3C25C32F-D37D-4307-801B-17C286BA6612}.Release|Win32.ActiveCfg = Release|Win32
+		{3C25C32F-D37D-4307-801B-17C286BA6612}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
