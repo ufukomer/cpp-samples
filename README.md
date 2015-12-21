@@ -1,4 +1,4 @@
-#C++ Samples
+# C++ Samples
 
 ### [Function Pointer](https://github.com/ufukomer/cpp-samples/tree/master/function_pointer)
 Invoke a specific function using a function pointer as an argument.
@@ -49,3 +49,9 @@ Overload plus (+) operator to accomplish summation between two complex number.
 
 ### [Overload << Operator](https://github.com/ufukomer/cpp-samples/tree/master/overload_operator)
 Overload << operator to print formatted date.
+
+### [Radix Sort](https://github.com/ufukomer/cpp-samples/tree/master/radix_sort)
+Radix sort algorithm.
+
+### [Inheritance](https://github.com/ufukomer/cpp-samples/tree/master/inheritance_shape)
+A triangle class that inherits shape and cost classes.
