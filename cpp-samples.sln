@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overload_operator", "overlo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "radix_sort", "radix_sort\radix_sort.vcxproj", "{B090924B-1078-4236-A3CE-B0A117418AF9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inheritance_shape", "inheritance_shape\inheritance_shape.vcxproj", "{FAAD900F-C5C8-4529-851D-BEA776F01DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -115,6 +117,12 @@ Global
 		{B090924B-1078-4236-A3CE-B0A117418AF9}.Release|Win32.ActiveCfg = Release|Win32
 		{B090924B-1078-4236-A3CE-B0A117418AF9}.Release|Win32.Build.0 = Release|Win32
 		{B090924B-1078-4236-A3CE-B0A117418AF9}.Release|x64.ActiveCfg = Release|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Debug|Win32.Build.0 = Debug|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Debug|x64.ActiveCfg = Debug|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Release|Win32.ActiveCfg = Release|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Release|Win32.Build.0 = Release|Win32
+		{FAAD900F-C5C8-4529-851D-BEA776F01DBA}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
